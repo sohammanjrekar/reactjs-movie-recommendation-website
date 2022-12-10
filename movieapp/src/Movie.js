@@ -2,7 +2,7 @@ import React from "react";
 import { NavLink } from "react-router-dom";
 import { useGlobalContext } from "./context";
 
-const imgUrl = "https://templatelab.com/wp-content/uploads/2019/06/movie-poster-template-14.jpg";
+const imgUrl = "https://2.bp.blogspot.com/-X9sVvOD0hrs/W5cz8WKyknI/AAAAAAAAEKI/s6mNIUQdsy4KGnCgtF1VSZlnj237ArxawCLcBGAs/s1600/not%2Bfound.gif";
 
 const Movie = () => {
   const { movie, isLoading } = useGlobalContext();
